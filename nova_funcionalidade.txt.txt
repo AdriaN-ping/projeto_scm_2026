@@ -1,0 +1,3 @@
+Mudanças realizadas no projeto
+Nova funcionalidade adicionada
+Aula prática de gerenciamento de configuração
